@@ -128,7 +128,7 @@
   margin: 0px; /* margen*/
   }
   .foto{
-  background-image: url(/img/honolulu.jpg); /* imagen de fondo*/
+  background-image: url(img/honolulu.jpg); /* imagen de fondo*/
   background-size: cover; /* tamaño de la imagen*/
   background-position: center; /* posicion de la imagen*/ 
   height: 400px; /* altura de la linea*/
